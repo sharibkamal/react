@@ -18,3 +18,19 @@ Error Handling
 HTTPs
 Tree Shaking - remove unused code
 Different dev and prod bundlesc
+
+# Food App
+
+ * Header
+ *  - Logo
+ *  - Nav items
+ * Body
+ *  - Search bar
+ *  - Restuarant container
+ *    - Restaurant card
+ *          -img, name, star rating, delivery time, cuisine,
+ * Footer
+ *  - Copyrights
+ *  - Address
+ *  - Contact
+ *  - Links
