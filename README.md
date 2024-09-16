@@ -35,3 +35,6 @@
  *  - Address
  *  - Contact
  *  - Links
+
+# React class component lifecycle
+https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
