@@ -38,3 +38,11 @@
 
 # React class component lifecycle
 https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+
+# To load the components when required. It makes the app more performant
+ * Chunking
+ * Code splitting
+ * Dynamic bundling
+ * Lazy loading
+ * On demand loading
+ * dynamic import
